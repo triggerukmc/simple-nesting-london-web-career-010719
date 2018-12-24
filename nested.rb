@@ -141,5 +141,5 @@ programmer_hash = {
     
 }
 }
-
+puts programmer_hash[:dennis_ritchie][:languages]
 end
