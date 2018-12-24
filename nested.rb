@@ -141,6 +141,4 @@ programmer_hash = {
 }
 }
 
-
-
 end
